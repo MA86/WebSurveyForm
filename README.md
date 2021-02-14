@@ -10,5 +10,5 @@ To see this survey form in action, click on this [link](https://ma86.github.io/W
 
 Here is a screenshot in case the link doesn't work:
 
-![Survey Form](screenshot.png)
+![Survey Form]()
 
