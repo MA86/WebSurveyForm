@@ -9,4 +9,5 @@ HTML, CSS, and Flexbox.
 To see this survey form in action, click on this [link](https://ma86.github.io/WebSurveyForm/).
 
 Here is a screenshot in case the link doesn't work:
+![Tribute Page](screenshot.png)
 
