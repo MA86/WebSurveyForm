@@ -6,7 +6,7 @@ HTML, CSS, and Flexbox.
 
 # Demonstration:
 
-To see this survey form in action, click on this [link](https://ma86.github.io/WebSurveyForm/).
+To see this survey form in action, click on this [link]().
 
 Here is a screenshot in case the link doesn't work:
 
