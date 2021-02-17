@@ -1,5 +1,5 @@
-# Web Survey Form:
-Built a survey form for the web.
+# Survey Form Webpage:
+Built a survey form webpage.
 
 # Technologies Used:
 HTML, CSS, and Flexbox.
