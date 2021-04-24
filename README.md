@@ -1,10 +1,12 @@
-# Survey Form Webpage:
+# Survey Form Webpage
+
 Built a survey form webpage.
 
-# Technologies Used:
+## Technologies Used
+
 HTML, CSS, and Flexbox.
 
-# Demonstration:
+## Demonstration
 
 To see this survey form in action, click on this [link](https://ma86.github.io/WebSurveyForm/).
 
